@@ -8,6 +8,6 @@ You must ask questions.
 
 You must be ok with a serious amount of failing before succeeding.
 
-You must be ok with being uncomfortable.
+Some changes.
 
 ![tiered learning objectives](./learning-objectives.png)
